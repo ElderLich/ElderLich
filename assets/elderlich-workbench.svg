@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">ElderLich</title>
+  <desc id="desc">A violet pocket console shows an original pixel dragon, with two illustrated duel cards tucked behind it.</desc>
+  <defs>
+    <pattern id="paper" width="9" height="9" patternUnits="userSpaceOnUse"><rect x="1" y="2" width="1" height="1" fill="#513149" opacity=".16"/></pattern>
+    <pattern id="screen" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0h4v4" fill="none" stroke="#516b43" stroke-width=".55" opacity=".25"/></pattern>
+    <pattern id="halftone" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#e6ab83"/></pattern>
+    <g id="wordmark">
+    <path d="M0 0h5v1h-5zM0 1h2v1h-2zM0 2h2v1h-2zM0 3h4v1h-4zM0 4h2v1h-2zM0 5h2v1h-2zM0 6h5v1h-5z"/>
+    <path d="M6 0h2v1h-2zM6 1h2v1h-2zM6 2h2v1h-2zM6 3h2v1h-2zM6 4h2v1h-2zM6 5h2v1h-2zM6 6h5v1h-5z"/>
+    <path d="M12 0h4v1h-4zM12 1h2v1h-2zM15 1h2v1h-2zM12 2h2v1h-2zM15 2h2v1h-2zM12 3h2v1h-2zM15 3h2v1h-2zM12 4h2v1h-2zM15 4h2v1h-2zM12 5h2v1h-2zM15 5h2v1h-2zM12 6h4v1h-4z"/>
+    <path d="M18 0h5v1h-5zM18 1h2v1h-2zM18 2h2v1h-2zM18 3h4v1h-4zM18 4h2v1h-2zM18 5h2v1h-2zM18 6h5v1h-5z"/>
+    <path d="M24 0h4v1h-4zM24 1h2v1h-2zM27 1h2v1h-2zM24 2h2v1h-2zM27 2h2v1h-2zM24 3h4v1h-4zM24 4h3v1h-3zM24 5h2v1h-2zM27 5h1v1h-1zM24 6h2v1h-2zM27 6h2v1h-2z"/>
+    <path d="M30 0h2v1h-2zM30 1h2v1h-2zM30 2h2v1h-2zM30 3h2v1h-2zM30 4h2v1h-2zM30 5h2v1h-2zM30 6h5v1h-5z"/>
+    <path d="M36 0h5v1h-5zM38 1h1v1h-1zM38 2h1v1h-1zM38 3h1v1h-1zM38 4h1v1h-1zM38 5h1v1h-1zM36 6h5v1h-5z"/>
+    <path d="M43 0h4v1h-4zM42 1h2v1h-2zM42 2h2v1h-2zM42 3h2v1h-2zM42 4h2v1h-2zM42 5h2v1h-2zM43 6h4v1h-4z"/>
+    <path d="M48 0h2v1h-2zM51 0h2v1h-2zM48 1h2v1h-2zM51 1h2v1h-2zM48 2h2v1h-2zM51 2h2v1h-2zM48 3h5v1h-5zM48 4h2v1h-2zM51 4h2v1h-2zM48 5h2v1h-2zM51 5h2v1h-2zM48 6h2v1h-2zM51 6h2v1h-2z"/>
+    </g>
+    <path id="case" d="M23 0h274l18 8 13 16v147l-10 18-17 9H22l-15-9-7-15V25l7-15z"/>
+    <g id="screw"><circle r="5" fill="#6867a3" stroke="#282939" stroke-width="2"/><path d="m-2 2 4-4" stroke="#282939" stroke-width="2"/></g>
+  </defs>
+  <path fill="#f9edcf" d="M0 0h1200v340H0z"/>
+  <path fill="url(#paper)" d="M0 0h1200v340H0z"/>
+  <path d="m833 0-156 340h27L859 0zm83 0L763 340h437V0z" fill="#f3d6b2"/>
+  <path d="m943 0-148 340h405V0z" fill="url(#halftone)"/>
+  <g stroke="#ceac86" stroke-width="2" fill="none" opacity=".8">
+    <path d="M0 75h28l23-23h193m-244 32h32l24-24h74M484 38h120l25 25h84m-192-16h79l25 25h60"/>
+    <path d="M0 277h54l17 17h132m227 35 27-27h154l27-27h45m-47 42 15-15h36"/>
+  </g>
+  <g fill="#72536b"><path d="M61 78h38v5H61zm44 0h8v5h-8zm14 0h8v5h-8z"/><path d="M61 263h166v2H61z"/></g>
+  <g transform="translate(62 119) scale(12)"><use href="#wordmark" transform="translate(.4 .43)" fill="#e7af86"/><use href="#wordmark" fill="#39273f"/></g>
+  <text x="63" y="249" font-family="ui-monospace, Consolas, monospace" font-size="33" font-weight="bold" fill="#684558">Digimon mods &amp; Yu-Gi-Oh!</text>
+  <!-- Two original card backs. -->
+  <g transform="translate(979 28) rotate(16 58 92)">
+    <rect x="4" y="6" width="117" height="187" rx="8" fill="#c89876"/>
+    <rect width="117" height="187" rx="8" fill="#46354b" stroke="#342a3a" stroke-width="4"/>
+    <rect x="8" y="8" width="101" height="171" rx="4" fill="none" stroke="#f4bd82" stroke-width="3"/>
+    <path d="m59 24 34 67-34 68-35-68zm0 28L39 91l20 40 20-40z" fill="#da8a62" fill-rule="evenodd"/>
+    <path d="m59 76 11 15-11 15-11-15z" fill="#ffdb96"/>
+  </g>
+  <g transform="translate(1043 57) rotate(28 57 95)">
+    <rect x="4" y="6" width="117" height="187" rx="8" fill="#bb9679"/>
+    <rect width="117" height="187" rx="8" fill="#265255" stroke="#302d38" stroke-width="4"/>
+    <rect x="8" y="8" width="101" height="171" rx="4" fill="none" stroke="#f2db9a" stroke-width="3"/>
+    <g fill="none" stroke="#91c69e" stroke-width="2"><path d="M17 28h15m-8-8v16m61 121h15m-7-8v16M16 58l42-29 42 29m-83 71 41 28 42-28"/><ellipse cx="58" cy="92" rx="36" ry="44"/></g>
+    <path d="m20 92 18-15 20-6 20 6 18 15-18 15-20 6-20-6z" fill="#e4d69c"/>
+    <path d="m58 76 12 16-12 16-12-16z" fill="#3f5455"/><rect x="56" y="87" width="4" height="10" fill="#f2d8a2"/>
+  </g>
+  <!-- Cartridge cord and a six-sided swivel ring. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M738 232c-86 16-91 47-58 67 31 18 48-9 24-19-15-6-32 2-37 15" stroke="#654b5d" stroke-width="7"/><path d="M738 230c-86 16-91 47-58 67" stroke="#c28c84" stroke-width="2"/></g>
+  <g transform="translate(735 103) rotate(-9 164 99)">
+    <use href="#case" x="4" y="15" fill="#bd967c" opacity=".75"/>
+    <use href="#case" y="7" fill="#555284" stroke="#342e44" stroke-width="4"/>
+    <use href="#case" fill="#8886c5" stroke="#342e44" stroke-width="4"/>
+    <path d="M13 29 24 13h268l17 9M13 37l7-9" fill="none" stroke="#c0b6e2" stroke-width="4"/>
+    <path d="M16 175 29 186h265l18-14" fill="none" stroke="#605c92" stroke-width="5"/>
+    <g opacity=".6" fill="none" stroke="#665f99" stroke-width="2"><path d="M237 19h19l8 8h36M242 26h10l8 9h26M249 153h30l16-16h17M241 160h42l17-16"/></g>
+    <rect x="20" y="29" width="219" height="135" rx="12" fill="#656193" stroke="#4b4666" stroke-width="3"/>
+    <rect x="28" y="35" width="204" height="119" rx="6" fill="#303442"/>
+    <rect x="38" y="44" width="183" height="100" rx="3" fill="#acc790"/>
+    <path d="M39 45h181v5H44v93h-5z" fill="#88a87d"/>
+    <rect x="38" y="44" width="183" height="100" fill="url(#screen)"/>
+    <g fill="#617d64"><path d="M48 55h12v3H48zm0 5h6v2h-6zm154 64h10v3h-10zm-5 6h15v2h-15z"/><path d="M52 132h57v2H52zm65 0h29v2h-29z" opacity=".65"/></g>
+    <g transform="translate(69 51) scale(4)" shape-rendering="crispEdges">
+      <!-- A small horned drake lifts its tail, seen in profile. -->
+      <path d="M7 7V5h1V3h1V1h2v4h2V4h2V2h1V0h2v5h-1v2h2v2h2v2h1v2h2v-1h1v-2h1V8h2V6h1v6h-1v3h-2v2h-3v1h-3v2h1v1h-5v-2h-3v2H8v-2h1v-2H7v-1H5v-1H3v-4h1V9h2V7z" fill="#314b49"/>
+      <path d="M7 8h4V6h4v1h2v2h2v2h2v3h4v-1h2v-2h1v2h-1v2h-3v1h-5v2h-2v-1h-4v2h-3v-2h1v-1H8v-2H5v-3h2z" fill="#6e906a"/>
+      <path d="M8 7V5h1V3h1v4zm6 0V5h2V3h1v3h-1v2zM6 10h6v1h-1v2H9v1H5v-2h1z" fill="#c3d89e"/>
+      <path d="M7 11h2v2H7zm4-1h1v1h-1zM5 14h3v1H5zm8-3h3v1h1v2h-2v-1h-2zm4 4h2v1h-2z" fill="#314b49"/>
+      <path d="M9 19h2v1H9zm8 0h2v1h-2z" fill="#a9c594"/>
+      <path d="M3 5h1V4h1v1h1v1H5v1H4V6H3zm20-2h1v1h-1zm-1 2h1v1h-1z" fill="#77976d"/>
+    </g>
+    <g><circle cx="287" cy="85" r="17" fill="#514d68"/><circle cx="287" cy="82" r="14" fill="#e89173" stroke="#584653" stroke-width="3"/><path d="m281 79 2-4h6" fill="none" stroke="#ffd5a0" stroke-width="2"/>
+    <circle cx="258" cy="113" r="14" fill="#514d68"/><circle cx="258" cy="110" r="11" fill="#ecae7b" stroke="#584653" stroke-width="3"/><path d="m254 107 2-3h4" fill="none" stroke="#ffe2a5" stroke-width="2"/></g>
+    <g fill="#4e496b"><rect x="111" y="173" width="25" height="5" rx="2"/><rect x="143" y="173" width="25" height="5" rx="2"/>
+      <path d="M268 54h6l5-9h-6zM278 54h6l5-9h-6zM288 54h6l5-9h-6z"/></g>
+    <use href="#screw" x="18" y="18"/><use href="#screw" x="308" y="26"/><use href="#screw" x="18" y="175"/><use href="#screw" x="308" y="169"/>
+  </g>
+</svg>
