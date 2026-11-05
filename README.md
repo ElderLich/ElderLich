@@ -14,6 +14,8 @@ I'm **ElderLich**. I mod Digimon games and maintain **MDPro4**, a community Yu-G
 
 ## Yu-Gi-Oh!
 
-**Play MDPro4.** This is where I work on duels, deck tools and solo adventures. Try Progression Series with a friend. Open packs from the same set, build from different pulls and find out which cards are suddenly worth playing. [Get MDPro4 at the Workshop](https://github.com/ElderLich/MDPro4-Workshop#get-started) · [Browse the player guide](https://elderlich.github.io/MDPro4-FAQ/)
+I started out making small contributions to SherryChaos's MDPro3. At v1.4.0 I began taking on bigger changes, and I stayed with the team through the fork and the months of work that became MDPro4.
+
+**Play MDPro4.** Try Progression Series with a friend. Open packs from the same set, build from different pulls and find out which cards are suddenly worth playing. [Get MDPro4 at the Workshop](https://github.com/ElderLich/MDPro4-Workshop#get-started) · [Browse the player guide](https://elderlich.github.io/MDPro4-FAQ/)
 
 **Script a card.** The MDPro4 Sacred Book is my scripting reference. Start with the first-card guide, or look up a card you already know and read how its effect works. Standard and Rush Duel each have their own script collection. [Open the Sacred Book](https://elderlich.github.io/MDPro4_Sacred_Book/)
